@@ -4,7 +4,7 @@ Quizikpedia is an interactive quiz application designed to engage users with fun
 
 *Engaging, user-friendly UI/UX.
 
-*Timed and untimed quiz modes.
+*Timed and untimed quiz modes..
 
 *Score tracking..
 
