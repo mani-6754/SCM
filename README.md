@@ -6,7 +6,7 @@ Quizikpedia is an interactive quiz application designed to engage users with fun
 
 *Timed and untimed quiz modes.
 
-*Score tracking.
+*Score tracking..
 
 Quizikpedia is an interactive quiz app designed for users to test and expand their knowledge through engaging quizzes. Follow these steps to navigate and use the app effectively:
 
